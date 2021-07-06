@@ -5,6 +5,6 @@ public class Test {
 		System.out.println(6688);
 		System.out.println(23456);
 		System.out.println(8888888);
-		System.out.println(444);
+		
 	}
 }
